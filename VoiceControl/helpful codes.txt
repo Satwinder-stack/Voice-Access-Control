@@ -1,0 +1,46 @@
+HELPFUL COMMAND LIST
+==================================================
+
+- view codes → show full command list in console and open in text file
+- terminate the assistant / stop assistant → shut down the assistant completely
+- start writing [text] → type text with grammar correction and capitalization (adds space at end)
+- add [symbol/number] → type punctuation, symbols, digits, or numbers (e.g., add comma, add five, add number one two three)
+- add space / add pause / add break → insert a space
+- delete [number] times → backspace multiple times (also works with "remove")
+- highlight it → select current word
+- highlight left / highlight right → select previous/next word
+- highlight line / highlight paragraph → select entire line
+- select all / select everything → Ctrl + A
+- copy it → copy selected text
+- copy all → select all then copy
+- paste it → paste from clipboard
+- undo it → undo last action (Ctrl + Z)
+- save it → save file (Ctrl + S)
+- refresh it / reload → refresh page (F5)
+- find it / search → open find dialog (Ctrl + F)
+- print it → open print dialog (Ctrl + P)
+- zoom in / zoom out [number times] → zoom in or out (supports count)
+- right click → perform right-click
+- open windows → press Windows key
+- brightness higher / brightness lower [by number] → adjust screen brightness (10% per step)
+- volume higher / volume lower [by number] → adjust volume
+- mute it → mute/unmute volume
+- first tab / second tab ... tenth tab → switch directly to tab number
+- next tab / previous tab → switch tabs (Ctrl + Tab / Ctrl + Shift + Tab)
+- new tab → open new tab (Ctrl + T)
+- close tab → close current tab (Ctrl + W)
+- scroll up / scroll down [number] → scroll page up or down
+- move left / move right / move up / move down [slowly / fast] [number seconds] → move mouse (continuous or timed)
+- stop moving / stop → stop any ongoing mouse movement
+- arrow left / arrow right / arrow up / arrow down [number times] → press arrow keys multiple times
+- click it → left-click
+- double click → double left-click
+- enter it / send it → press Enter key
+- open [app or website] → open apps (Word, Excel, Notepad, CMD, Discord, etc.) or websites (YouTube, Gmail, Reddit, etc.)
+- close [browser] → close all windows of Chrome, Brave, Firefox, Edge, etc.
+- open cmd → open new Command Prompt window
+- open cmd administrator → open Command Prompt as Administrator
+- close this cmd / close current cmd → close the current Command Prompt window
+
+==================================================
+This file updates automatically when you say 'view codes'
