@@ -19,6 +19,8 @@ arising from the use, misuse, or inability to use this software —
 including but not limited to data loss, system instability, or hardware issues.
 
 Use entirely at your own risk.
+
+The only code that I'm allowing a user to change would be the apps and website url or links. Nothing more, nothing less.
 """
 
 import whisper
@@ -1017,3 +1019,4 @@ while True:
 # LinkedIn: Satwinder Jeerh
 # 3rd year HAU student Information Technology - specializing in web development 
 # This project will not be profitable in any way and is made for educational purposes only.
+
