@@ -17,6 +17,7 @@ STEP 3
 ==========================
 Necessary ide and languages:
 vscode
+python
 java 18.0 above
 
 Open cmd then run 
