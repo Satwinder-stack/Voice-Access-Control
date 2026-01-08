@@ -14,6 +14,7 @@ STEP 3
 ==========================
 Necessary ide and languages:
 vscode
+python
 java 18.0 above
 
 Open cmd then run 
@@ -51,3 +52,4 @@ STEP 5
 ========================
 Restart your device, it might take 5-10 minutes to start, be patient, it's free.
 ========================
+
